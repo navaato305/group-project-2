@@ -1,7 +1,7 @@
 {
-  "name": "online-car-game",
+  "name": "basic-car-game",
   "version": "1.0.0",
-  "description": "Simple multiplayer online car game",
+  "description": "Simple multiplayer online car game made as a tutorial",
   "main": "index.js",
   "scripts": {
     "build": "webpack --progress --colors",
@@ -19,6 +19,8 @@
   ],
   "author": "Gustavo Domaradzki",
   "license": "ISC",
+
+
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",

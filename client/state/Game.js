@@ -7,7 +7,7 @@ import newPlayer from './sockets/newPlayer'
 import updatePlayers from './sockets/updatePlayers'
 import playerMovementInterpolation from './predictions/playerMovementInterpolation'
 
-const SERVER_IP = 'https://lit-lake-80708.herokuapp.com/'
+const SERVER_IP = 'https://simple-car-game.herokuapp.com/'
 let socket = null
 let otherPlayers = {}
 
